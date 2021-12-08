@@ -1,12 +1,10 @@
 # guide2021
-wget https://dev.mysql.com/get/mysql-apt-config_0.8.15-1_all.deb
-sudo dpkg -i mysql-apt-config_0.8.15-1_all.deb
 
 
 
 
 
-sudo adduser --ingroup admin "username"
+sudo adduser --ingroup admin "username" 
 sudo usermod -aG sudo "username" (ajouter au groupe sudoers)
 getent group sudo | cut -d: -f4
 getent group admin (afficher les admins)
