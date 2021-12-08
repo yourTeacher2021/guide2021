@@ -39,3 +39,4 @@ https://debian-facile.org/doc:programmation:mysql
 mysql -u root -p
 [17:44]
 show Databases;
+https://drive.google.com/file/d/1thmiwHByfLL1MfW9z0azHIU68Ojqab_4/view?usp=sharing
