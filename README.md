@@ -36,3 +36,6 @@ sudo service fail2ban status
 https://aonyx.fr/pdf/notices/procedure-installation-serveur-web.pdf
 https://www.digitalocean.com/community/tutorials/how-to-install-the-latest-mysql-on-debian-10
 https://debian-facile.org/doc:programmation:mysql
+mysql -u root -p
+[17:44]
+show Databases;
